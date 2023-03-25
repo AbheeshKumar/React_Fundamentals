@@ -1,0 +1,4 @@
+-It's a library
+-JSX is js extension used in react to access html elements in js
+-Stores virtual dom in memory to update specific component of a page rather than the entirety of it
+-bla bla
