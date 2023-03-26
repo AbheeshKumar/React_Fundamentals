@@ -1,6 +1,7 @@
 import './App.css';
-import {Profile} from './Gallery'
-import Gallery from './Gallery.js';
+import {Profile} from './components/Gallery';
+import Gallery from './components/Gallery';
+import Hello from './components/hello';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <Gallery/>
     <h1>Winner</h1>
     <Profile/>
+    <Hello/>
     </section>
   );
 }
